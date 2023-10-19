@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.enableImages": true,
+    "python.globalModuleInstallation": false,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
